@@ -1,0 +1,17 @@
+{
+    "orderID": 213,
+    "orderPrice": 2323.43,
+    "orderDate": "12.12.2021",
+    "isDeliveryFree": false,
+    "orderItems":[{
+        "productID": 1212,
+        "amount": 2,
+        "price": 12.3
+      },
+      {
+        "productID": 3423,
+        "amount": 4,
+        "price": 2002.99
+      }
+   ]
+}
