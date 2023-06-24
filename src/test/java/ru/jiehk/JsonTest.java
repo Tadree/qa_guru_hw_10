@@ -10,7 +10,6 @@ import static com.codeborne.pdftest.assertj.Assertions.assertThat;
 
 public class JsonTest {
 
-    ClassLoader cl = JsonTest.class.getClassLoader();
     ObjectMapper objectMapper = new ObjectMapper();
     @Test
     void jsonTestWithModel() throws Exception{
